@@ -12,7 +12,7 @@
       "author": {
         "id": 1,
         "name": "John Doe",
-        "avatar": "https://www.codeapi.io/initials/John%20Doe",
+        "avatar": "https://i.pravatar.cc/250",
         "profession": "Content Writer"
       }
     },
@@ -28,7 +28,7 @@
       "author": {
         "id": 2,
         "name": "John Snow",
-        "avatar": "https://www.codeapi.io/initials/John%20Snow",
+        "avatar": "https://i.pravatar.cc/250",
         "profession": "Content Writer"
       }
     },
@@ -44,7 +44,7 @@
       "author": {
         "id":  1,
         "name": "John Doe",
-        "avatar": "https://www.codeapi.io/initials/John%20Doe",
+        "avatar": "https://i.pravatar.cc/250",
         "profession": "Content Writer"
       }
     },
@@ -60,7 +60,7 @@
       "author": {
         "id":  1,
         "name": "John Doe",
-        "avatar": "https://www.codeapi.io/initials/John%20Doe",
+        "avatar": "https://i.pravatar.cc/250",
         "profession": "Content Writer"
       }
     },
@@ -76,7 +76,7 @@
       "author": {
         "id":  1,
         "name": "John Doe",
-        "avatar": "https://www.codeapi.io/initials/John%20Doe",
+        "avatar": "https://i.pravatar.cc/250",
         "profession": "Content Writer"
       }
     }
